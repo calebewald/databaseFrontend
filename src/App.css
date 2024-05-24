@@ -1,0 +1,34 @@
+/* table.css */
+
+/* Styles for the container div */
+.container {
+  margin: 20px;
+  font-family: Arial, sans-serif;
+}
+
+/* Styles for the table */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 20px;
+}
+
+/* Styles for table headers */
+th {
+  background-color: #f2f2f2;
+  border: 1px solid #dddddd;
+  padding: 8px;
+  text-align: left;
+}
+
+/* Styles for table cells */
+td {
+  border: 1px solid #dddddd;
+  padding: 8px;
+}
+
+/* Styles for table heading */
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "app_id": "app_33206f31-e834-4bb3-be86-67c43dd18649",
+      "org_id": "user_ae840a95-1435-4a23-96e6-48b3a6a3630a",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_33206f31-e834-4bb3-be86-67c43dd18649.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_33206f31-e834-4bb3-be86-67c43dd18649.git",
+      "name": "Grocery Store Website",
+      "alias": "Grocery-Store-Website"
+    }
+  ]
+}
