@@ -64,11 +64,9 @@ const AddButton = ({ tableData, setTableData, currentModifier, setCurrentModifie
     return (
         <div>
             <button onClick={toggleAddButton}>{currentModifier == "AddButton" ? "Hide" : "Add Entry"}</button>
-            <ul>
-                {/* slick way to conditionally render, && returns right input if left input is truthy,
+            {/* slick way to conditionally render, && returns right input if left input is truthy,
                 so form is returned if currentModifier is true.*/}
-                {currentModifier == "AddButton" && form}
-            </ul>
+            {currentModifier == "AddButton" && form}
         </div>
     );
 };
